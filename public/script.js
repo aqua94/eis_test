@@ -49,8 +49,6 @@ tableApp.controller('tableAppController', function($scope, $http){
                 $scope.footer[10] = item.value_p;
             })
             
-            //$scope.correctedData = $scope.tableData.data.body;
-            // $scope.tableData.data.body = $scope.tableData.data.body.map(function(item){
             $scope.tableData.data.body.map(function(item){
                 for (var key in item){
                     switch (typeof(item[key])) {
