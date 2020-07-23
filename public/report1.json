@@ -1,0 +1,881 @@
+{
+    "data": {
+        "body": [
+            {
+                "account": "5262c6aee0e34c1fbf9a3ffe",
+                "area_number": "11",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 24300.08,
+                "saldo_out": 26351.21,
+                "short_name": "Заболотский А.Г.",
+                "value_a": [
+                    2051.13
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6aee0e34c1fbf9a3fff",
+                "area_number": "12",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    "2016-02-26T00:00:00"
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    "56ce2dd7e1747000014738cb"
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    "02.2016"
+                ],
+                "saldo_in": 38457.88,
+                "saldo_out": 38457.88,
+                "short_name": "Евсеева О.Е.",
+                "value_a": [
+                    3136.59
+                ],
+                "value_p": [
+                    3136.59
+                ]
+            },
+            {
+                "account": "5262c6aee0e34c1fbf9a4002",
+                "area_number": "13",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 35713.43,
+                "saldo_out": 38235.31,
+                "short_name": "Сердюк И.Н.",
+                "value_a": [
+                    2521.88
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6aee0e34c1fbf9a4000",
+                "area_number": "13",
+                "date_a": [
+                    null
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    null
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": false,
+                "month_a": [
+                    null
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": -4034.72,
+                "saldo_out": -4034.72,
+                "short_name": "Прохоров М.А.",
+                "value_a": [
+                    null
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6aee0e34c1fbf9a4004",
+                "area_number": "14",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 28337.43,
+                "saldo_out": 30220.01,
+                "short_name": "Безмолитвенный И.В.",
+                "value_a": [
+                    1882.58
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a400b",
+                "area_number": "15",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 35217.49,
+                "saldo_out": 39506.39,
+                "short_name": "Габибов Т.Р.",
+                "value_a": [
+                    4288.9
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4010",
+                "area_number": "16",
+                "date_a": [
+                    null
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    null
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": false,
+                "month_a": [
+                    null
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 14794.04,
+                "saldo_out": 14794.04,
+                "short_name": "Травинов А.Н.",
+                "value_a": [
+                    null
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "54c66415f3b7d43674c0f1ce",
+                "area_number": "16",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 21460.3,
+                "saldo_out": 25106.94,
+                "short_name": "Матвеев С.В.",
+                "value_a": [
+                    3646.64
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4012",
+                "area_number": "17",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 33575.38,
+                "saldo_out": 36255.16,
+                "short_name": "Смоляков Ю.А.",
+                "value_a": [
+                    2679.78
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4013",
+                "area_number": "18",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 19843.21,
+                "saldo_out": 21878.21,
+                "short_name": "Петроченко В.Л.",
+                "value_a": [
+                    2035.0
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4015",
+                "area_number": "19",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 26978.86,
+                "saldo_out": 29284.56,
+                "short_name": "Лебзак С.Э.",
+                "value_a": [
+                    2305.7
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4018",
+                "area_number": "20",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 36731.27,
+                "saldo_out": 39976.68,
+                "short_name": "Науменко Д.Н.",
+                "value_a": [
+                    3245.41
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a401b",
+                "area_number": "21",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 55310.18,
+                "saldo_out": 58190.73,
+                "short_name": "Штанько С.В.",
+                "value_a": [
+                    2880.55
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a401e",
+                "area_number": "22",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 21929.91,
+                "saldo_out": 24352.6,
+                "short_name": "Барбарич Ю.А.",
+                "value_a": [
+                    2422.69
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4022",
+                "area_number": "23",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 31047.04,
+                "saldo_out": 33732.37,
+                "short_name": "Меджидов Г.А.",
+                "value_a": [
+                    2685.33
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a401f",
+                "area_number": "23",
+                "date_a": [
+                    null
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    null
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": false,
+                "month_a": [
+                    null
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": -3534.04,
+                "saldo_out": -3534.04,
+                "short_name": "Меджидов Р.Г.",
+                "value_a": [
+                    null
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4024",
+                "area_number": "24",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    "2016-02-15T00:00:00"
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    "56c1119fe17470000144656d"
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    "01.2016"
+                ],
+                "saldo_in": 34421.71,
+                "saldo_out": 34433.57,
+                "short_name": "Сидоров А.В.",
+                "value_a": [
+                    2561.46
+                ],
+                "value_p": [
+                    2549.6
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a4027",
+                "area_number": "25",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    "2016-02-04T00:00:00"
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    "56b306f3e17470000141e643"
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    "01.2016"
+                ],
+                "saldo_in": 50666.83,
+                "saldo_out": 50870.57,
+                "short_name": "Былина М.С.",
+                "value_a": [
+                    3221.81
+                ],
+                "value_p": [
+                    3018.07
+                ]
+            },
+            {
+                "account": "5262c6afe0e34c1fbf9a402a",
+                "area_number": "26",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 22720.04,
+                "saldo_out": 24777.89,
+                "short_name": "Нестерова Л.Ю.",
+                "value_a": [
+                    2057.85
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6b0e0e34c1fbf9a402b",
+                "area_number": "27",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 34447.5,
+                "saldo_out": 37300.63,
+                "short_name": "Нагорнова А.Р.",
+                "value_a": [
+                    2853.13
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6b0e0e34c1fbf9a402f",
+                "area_number": "28",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 70553.49,
+                "saldo_out": 74437.0,
+                "short_name": "Джавадов Р.Т.",
+                "value_a": [
+                    3883.51
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6b0e0e34c1fbf9a4032",
+                "area_number": "29",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 52442.75,
+                "saldo_out": 55339.31,
+                "short_name": "Хамула Г.И.",
+                "value_a": [
+                    2896.56
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6b0e0e34c1fbf9a4036",
+                "area_number": "30",
+                "date_a": [
+                    "2016-02-17T00:00:00"
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    "56c5956d293cf1001935b4a8"
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": true,
+                "month_a": [
+                    "02.2016"
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": 32880.51,
+                "saldo_out": 36420.63,
+                "short_name": "Васильев В.Г.",
+                "value_a": [
+                    3540.12
+                ],
+                "value_p": [
+                    null
+                ]
+            },
+            {
+                "account": "5262c6b0e0e34c1fbf9a4033",
+                "area_number": "30",
+                "date_a": [
+                    null
+                ],
+                "date_p": [
+                    null
+                ],
+                "doc_a": [
+                    null
+                ],
+                "doc_p": [
+                    null
+                ],
+                "house": "526236efe0e34c523c828236",
+                "is_responsible": false,
+                "month_a": [
+                    null
+                ],
+                "month_p": [
+                    null
+                ],
+                "saldo_in": -2114.02,
+                "saldo_out": -2114.02,
+                "short_name": "+Жилец №.Л.",
+                "value_a": [
+                    null
+                ],
+                "value_p": [
+                    null
+                ]
+            }
+        ],
+        "caption": {
+            "report_name": "ТСЖ «Южный каскад»\nОборотно-сальдовая ведомость(с 04.02.2016 по 04.03.2016)\nг. Санкт-Петербург, Маршала Жукова пр-кт, д. 36 корп. 1\nСформирован 04.03.2016 00:12\n",
+            "title": "ТСЖ «Южный каскад»\nОборотно-сальдовая ведомость(с 04.02.2016 по 04.03.2016)\nг. Санкт-Петербург, Маршала Жукова пр-кт, д. 36 корп. 1\nСформирован 04.03.2016 00:12\n"
+        },
+        "footer": [
+            {
+                "saldo_in": 712146.55,
+                "saldo_out": 760238.91,
+                "value_a": [
+                    56796.62
+                ],
+                "value_p": [
+                    8704.26
+                ]
+            }
+        ],
+        "header": [
+            {
+                "key": "area_number",
+                "name": "№ квартиры"
+            },
+            {
+                "key": "short_name",
+                "name": "Ф.И.О."
+            },
+            {
+                "key": "saldo_in",
+                "name": "Сальдо вх."
+            },
+            {
+                "key": "value_a",
+                "name": "Начисл."
+            },
+            {
+                "key": "doc_a",
+                "name": "документ начисления"
+            },
+            {
+                "key": "month_a",
+                "name": "Период начисл."
+            },
+            {
+                "key": "date_a",
+                "name": "Дата н."
+            },
+            {
+                "key": "value_p",
+                "name": "Оплата"
+            },
+            {
+                "key": "doc_p",
+                "name": "документ оплаты"
+            },
+            {
+                "key": "month_p",
+                "name": "Период оп."
+            },
+            {
+                "key": "date_p",
+                "name": "Дата оп."
+            },
+            {
+                "key": "saldo_out",
+                "name": "Сальдо исх."
+            },
+            {
+                "key": "is_responsible",
+                "name": "Ответственный"
+            },
+            {
+                "key": "house",
+                "name": "дом"
+            },
+            {
+                "key": "account",
+                "name": "аккаунт"
+            }
+        ]
+    },
+    "messages": [],
+    "meta": {
+        "is_multitable": false
+    },
+    "status": 200
+}

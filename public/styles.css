@@ -1,0 +1,52 @@
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+.header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: dodgerblue;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    background-color: skyblue;
+    border: 1px solid black;
+    min-width: 402px;
+    line-height: 1em;
+    padding: 10px;
+}
+
+.user__text {
+    margin-bottom: 10px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 380px;
+    max-width: 600px;
+    width: 60%;
+    background-color: skyblue;
+    border: 1px solid black;
+}
+
+.table {
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+.thead {
+    border: 2px solid black;
+}
+
+.tfoot {
+    border-top: 2px solid darkred;
+}

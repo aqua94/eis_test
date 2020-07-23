@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+    <html lang="en" ng-app="tableApp">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <title>Тестовое задание от ЕИС</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <div ng-controller="tableAppController">
+            <header class="header">
+                <div class="user">
+                    <span class="user__text">
+                        <b>Имя:</b> {{userData.data.str_name}}
+                    </span>
+                    <span class="user__text">
+                        <b>Должность:</b> {{userData.data.position.name}}
+                    </span>
+                    <span class="user__text">
+                        <b>Организация:</b> {{userData.data.provider.str_name}}
+                    </span>
+                </div>
+                <div class="menu">
+                    <span>
+                        Главная
+                    </span>
+                    <span>
+                        Таблица
+                    </span>
+                    <span>
+                        О нас
+                    </span>
+                </div>
+            </header>
+            <div class="content">
+                <span>
+                    {{tableData.data.caption.title}}
+                </span>
+                <table class="table">
+                    <thead class="thead">
+                        <tr>
+                            <th class="th" ng-repeat="item in tableData.data.header">
+                                {{item.name}}
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="person in tableData.data.body track by $index">
+                            <td class="td" ng-repeat="(key, value) in person">
+                                {{value}}
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot class="tfoot">
+                        <tr>
+                            <td ng-repeat="el in footer track by $index">
+                                {{el}}
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

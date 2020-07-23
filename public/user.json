@@ -1,0 +1,107 @@
+{
+    "data": {
+        "_extra": {
+            "is_super": false,
+            "news_count": 4,
+            "provider": {
+                "_id": "526234b2e0e34c4743821f57",
+                "logo_image": {
+                    "_id": "56002072a5c51f001dd2cda0",
+                    "filename": "logo.jpg",
+                    "uuid": "696a3c74d46244e89d7f10a2e7158f6c"
+                },
+                "str_name": "ТСЖ «Южный каскад»"
+            },
+            "tabs": [
+                {
+                    "_id": "532c31b9b6e69723f9ddf982",
+                    "_type": "SecuredTab",
+                    "is_active": true,
+                    "parent": null,
+                    "permissions_help": null,
+                    "rights": {
+                        "create": true,
+                        "delete": true,
+                        "read": true,
+                        "update": true
+                    },
+                    "slug": "request_log",
+                    "title": "Журнал заявок"
+                },
+                {
+                    "_id": "5486de3af3b7d44c011667f2",
+                    "_type": "SecuredTab",
+                    "is_active": true,
+                    "parent": "532c31b9b6e69723f9ddf982",
+                    "permissions_help": null,
+                    "rights": {
+                        "create": true,
+                        "delete": true,
+                        "read": true,
+                        "update": true
+                    },
+                    "slug": "request_log_list",
+                    "title": "Журнал диспетчерских заявок"
+                }
+            ],
+            "type": "Account"
+        },
+        "_id": "561f44012820340021b93a65",
+        "_type": "Worker",
+        "avatar": null,
+        "birth_date": null,
+        "comment": null,
+        "control_info": null,
+        "created_at": null,
+        "delivery_disabled": false,
+        "department": {
+            "_id": "526236d4e0e34c4743826102",
+            "name": "Диспетчерская служба",
+            "provider": "526234b2e0e34c4743821f57",
+            "system_department": {
+                "_id": "526236c6e0e34c4743823631"
+            }
+        },
+        "doc_copies": {
+            "_id": "561f44012820340021b93a64",
+            "employment_contract": null,
+            "identity_card": null,
+            "inn": null,
+            "snils": null
+        },
+        "email": null,
+        "employee_id": 0,
+        "first_name": "Ольга",
+        "has_access": true,
+        "inn": null,
+        "is_invalid": false,
+        "last_name": "Макарова",
+        "news_count": 0,
+        "number": "7817816458537",
+        "old_numbers": [],
+        "patronymic_name": "Ивановна",
+        "phones": [],
+        "photo": null,
+        "position": {
+            "_id": "526236d4e0e34c4743826103",
+            "code": null,
+            "name": "диспетчер"
+        },
+        "provider": {
+            "_id": "526234b2e0e34c4743821f57",
+            "business_types": [
+                "5427dc2bf3b7d44b1ae89b0e",
+                "5427dc2bf3b7d44b1ae89b02"
+            ],
+            "str_name": "ТСЖ «Южный каскад»"
+        },
+        "settings": {},
+        "sex": "female",
+        "short_name": "Макарова О.И.",
+        "snils": "",
+        "str_name": "Макарова Ольга Ивановна"
+    },
+    "messages": [],
+    "meta": {},
+    "status": 200
+}
